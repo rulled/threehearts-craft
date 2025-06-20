@@ -1,0 +1,13 @@
+#Fri Jun 20 23:39:53 MSK 2025
+AURORA=false
+END_CLOUDY_FOG=false
+GENERATED_NORMALS=false
+GENERATED_SPECULAR=false
+LPV_FOG=false
+NETHER_CLOUDY_FOG=false
+VC=false
+VL_SAMPLES=7
+VOXEL_VOLUME_SIZE=128
+VPS=false
+shadowDistance=128.0
+shadowMapResolution=1024

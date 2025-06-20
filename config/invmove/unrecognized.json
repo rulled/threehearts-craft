@@ -1,0 +1,14 @@
+{
+  "allowMovement": {
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "fi.dy.masa.malilib.MaLiLibConfigGui": true,
+    "codes.atomys.advr.screens.AdvancementReloadedScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "com.notium.bettercapes.screen.CapeSelectScreen": true,
+    "net.minecraft.class_433": true
+  },
+  "hideBackground": {}
+}
